@@ -43,3 +43,27 @@
 19. 实现未定义变量和数组越界的错误处理。
 20. 当完成所有任务的时候，所有的测试也应该通过。
 21. 写一个 README 文件来详细说明运行应用的步骤。如果你已经添加了额外的测试（来提高测试覆盖率），请提供文档说明这些未来的功能点是什么和你编写的测试在检查什么。
+
+Alex的前端纳米学位FeedReader项目
+====================
+
+
+## How to Load the project
+
+- Clone the **[repo](https://github.com/jzsplk/Feed-Reader-Testing_zh.git)** and open index.html
+
+## how to use the project
+- click menu to show Feeds
+- click Feed to show Details
+
+## Resources used to create the test:
+
+### Test Tool:
+
+- jasmine
+
+
+#### Udacity Resources:
+
+- [Project Description](https://github.com/udacity/frontend-nanodegree-feedreader)
+
